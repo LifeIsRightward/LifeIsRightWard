@@ -9,5 +9,7 @@
 <img src="https://img.shields.io/badge/Andtoid-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=style=for-the-badge&logo=Nginx&logoColor=white"/>
 
 ![LifeIsRightWard's GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeIsRightWard&show_icons=true&theme=radical)
