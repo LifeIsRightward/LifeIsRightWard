@@ -1,4 +1,4 @@
-# Kim Dae Hyun 😉
+# 😉 Kim Dae Hyun 
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/40c63ae2-8ddf-45a2-9952-5b5c99db438f.jpeg" width = "30%" height = "285"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/152ea4b9-9508-4998-abfe-1f75e1c721e7.jpeh" width = "40%" height ="285"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/7ad89f24-3359-4e36-a191-47ccdd60e4aa.jpeg" width = "30%" height = "285">
 ## 인적사항
 * 이름   
@@ -17,7 +17,7 @@ https://github.com/LifeIsRightward
   //내 소개 글귀 ㅇㅇ
 ```
 
-# 🏆🏆 수상 경력 및 주요 활동. 
+# 🏆 수상 경력 및 주요 활동. 
 ## 2019   
 - 2019년도 신입생 몰입형 SW코딩캠프(파이썬) 
 - 2019년도 학생생활관 주말 프로그램 위캔두 커뮤니티(동상) 
