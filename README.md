@@ -1,4 +1,7 @@
 # Kim Dae Hyun 😉
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/55d72f84-366b-4fdf-a295-906def15c310.jpeg" width = "40%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/7931582e-0c53-45ab-bb7d-71b49f63147d.jpeg" width = "40%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/7ad89f24-3359-4e36-a191-47ccdd60e4aa.jpeg" width = "40%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/40c63ae2-8ddf-45a2-9952-5b5c99db438f.jpeg" width = "40%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/152ea4b9-9508-4998-abfe-1f75e1c721e7.jpeh">
 ## 인적사항
 * 이름   
 **김대현 / Kim Dae Hyun**
