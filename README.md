@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=7EA2BF&height=150&text=Better_Than_Yesterday!)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0C92AD&height=150&section=header&text=DaeHyun'sGitHub&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 </div>
 
 Stack<br>
