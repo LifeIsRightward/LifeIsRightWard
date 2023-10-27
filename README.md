@@ -12,5 +12,6 @@ Stack<br>
 
 
 ![LifeIsRightWard's GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeIsRightWard&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={gidss})](https://solved.ac/{gidss})
 
 
