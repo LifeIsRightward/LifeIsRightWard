@@ -66,9 +66,9 @@ https://github.com/LifeIsRightward
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "24%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
 
-#### 프로젝트 한 줄 소개: 한창 "낭만"이라는 단어에 흠뻑 취해있을때, 나만의 다이어리를 만들어보았습니다.
+**프로젝트 한 줄 소개: 한창 "낭만"이라는 단어에 흠뻑 취해있을때, 나만의 다이어리를 만들어보았습니다.**
 
-#### 🛠Tech🛠 
+**🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
 <br>
@@ -78,9 +78,10 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" width = "35%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
 
-#### 프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.
-#### Link: https://lifeisrightward.github.io/Portfolio_Site/
-#### 🛠Tech🛠
+**프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.**
+**Link: https://lifeisrightward.github.io/Portfolio_Site/**
+
+**🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 <br>
@@ -88,10 +89,10 @@ https://github.com/LifeIsRightward
 ### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
-#### 프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.
-#### Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be
+**프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.**
+**Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be**
 
-#### 🛠Tech🛠
+**🛠Tech🛠**<br>
 FrontEnd:<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
 BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Groom.IDE-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"> 
@@ -103,9 +104,9 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
 
-#### 프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.
+**프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**
 
-#### 🛠Tech🛠
+**🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 
 <br>
