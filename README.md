@@ -11,7 +11,6 @@
 rlaeogus9269@naver.com
 * GitHub   
 https://github.com/LifeIsRightward
-***
 
 ```
  "느려도 좋으니, 조금씩이라도 앞으로 가자!!"
