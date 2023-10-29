@@ -73,7 +73,7 @@ https://github.com/LifeIsRightward
 
 # 💻 주요 프로젝트 소개
 
-### 다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
+### 🟤다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "24%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "24%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
@@ -85,7 +85,7 @@ https://github.com/LifeIsRightward
 
 <br>
 
-### 나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
+### 🟤나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/aafeba29-f987-4730-8cef-ef656013047f" width = "28%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" width = "35%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
@@ -98,7 +98,7 @@ https://github.com/LifeIsRightward
 
 <br>
 
-### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
+### 🟤씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>
@@ -111,7 +111,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 <br>
 
-### 탄막 피하기 게임(Dodge)(2023.9.17 ~ 20223.10.17)
+### 🟤탄막 피하기 게임(Dodge)(2023.9.17 ~ 20223.10.17)
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/452655bb-3701-4055-afb1-6c5c52219745" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
