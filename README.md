@@ -123,6 +123,16 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 <br>
 
+# 🏃 진행중인 프로젝트
+### 교내
+- 클라우드 컴퓨팅: 실습에서 사용했던 Nginx, Openstack, Docker, Azure 중에서 선택하여 클라이언트 - 서버 구조 프로젝트
+- 오픈소스HW 응용: Arduino를 이용한 창작물 제작 및 발표
+- VR/AR 게임제작 기초: Unity를 이용한 FPS 리듬게임 제작
+### 교외
+- 웹 개발: 용문고등학교 김지수(수학)선생님, 안지훈(정보)선생님 과 함께 Streamlit을 사용한 웹 개발
+- 웹 개발: 정우토탈 웹 개발
+<br>
+
 # 📚 전공 과목
 
 ### 수강한 과목
@@ -151,6 +161,23 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 클라우드컴퓨팅(Cloud Computing)
 - 오픈소스SW의 이해(Understanding Opensource SW)
 - 오픈소스하드웨어 응용(Opensource Hardware)
+
+# 📢 꾸준한 앞으로의 목표
+- Git Hub 1일 1잔디
+- 1일 1 백준
+- 2점슛 60개, 3점슛 20개
+- 짧게라도 좋으니 산책 다녀오기
+- 부모님께 연락 자주 드리기
+
+# 🔈 장기적 목표
+- 캡스톤 대상
+- 캡스톤 주제로 여러 해커톤 대회 참석, 수상
+- 건강한 신체 유지
+- 졸업학점 4.3
+- 두고두고 오래볼 동기들 챙기기
+- 대기업 Or 스타트업
+
+# 마지막으로
 
 
 
