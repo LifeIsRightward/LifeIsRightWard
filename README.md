@@ -56,9 +56,9 @@ https://github.com/LifeIsRightward
 # 💻 주요 프로젝트 소개
 
 ### 다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" height ="500">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" height ="500">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" height ="500">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" widht = "250" height ="400">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" widht = "250" height ="400">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" widht = "250" height ="400">
 
 ### 프로젝트 한 줄 소개: 한창 "낭만"이라는 단어에 흠뻑 취해있을때, 나만의 다이어리를 만들어보았습니다.
 
@@ -67,9 +67,7 @@ https://github.com/LifeIsRightward
 
 
 ### 나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/82e63ba1-5efb-44b7-891a-ea0768f0ce17">
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0">
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/aafeba29-f987-4730-8cef-ef656013047f" widht = "200" height ="400"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" widht = "200" height ="400"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" widht = "200" height ="400">
 
 ### 프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.
 
