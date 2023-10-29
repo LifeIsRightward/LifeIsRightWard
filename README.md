@@ -178,7 +178,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 두고두고 오래볼 동기들 챙기기
 - 대기업 Or 스타트업
 
-# 마지막으로
+# 🎙️ 마지막으로
 
 
 
