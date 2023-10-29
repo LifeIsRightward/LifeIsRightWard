@@ -13,9 +13,6 @@ rlaeogus9269@naver.com
 https://github.com/LifeIsRightward
 ***
 
-```
-  //내 소개 글귀 ㅇㅇ
-```
 # 🎓 학력
 - 2007 ~ 2008 남양주 미금초등학교
 - 2008 ~ 2013 서울 정덕초등학교
