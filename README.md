@@ -65,10 +65,14 @@ https://github.com/LifeIsRightward
 ### 🛠Tech🛠 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
-<br>
-<br>
+<hr>
 
 ### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" height = "70%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "45%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "55%">
+
+
+
 
 ### 프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.
 
@@ -77,8 +81,7 @@ FrontEnd:<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge
 <br>
 BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/GroomIDE-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"> 
 
-<br>
-<br>
+<hr>
 
 ### Unity Dodge(2023.9.17 ~ 20223.10.17)
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/452655bb-3701-4055-afb1-6c5c52219745" width = "33%">
@@ -90,7 +93,6 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 ### 🛠Tech🛠
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 
-<br>
 <br>
 
 # 🖥️ 현재 진행중인 프로젝트
