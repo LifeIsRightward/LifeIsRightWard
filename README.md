@@ -57,9 +57,9 @@ https://github.com/LifeIsRightward
 # 💻 주요 프로젝트 소개
 
 ### 다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "28%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "28%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "28%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "24%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "24%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
 
 ### 프로젝트 한 줄 소개: 한창 "낭만"이라는 단어에 흠뻑 취해있을때, 나만의 다이어리를 만들어보았습니다.
 
@@ -81,7 +81,7 @@ https://github.com/LifeIsRightward
 <br>
 
 ### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "35%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
 ### 프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.
 
