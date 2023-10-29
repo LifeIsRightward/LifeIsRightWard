@@ -27,7 +27,7 @@ https://github.com/LifeIsRightward
 - 2019년도 Topcit 제 11회 정기평가(국문)
 - 2019년도 Topcit 제 11회 정기평가(국문)
 ## 2020
-- 2020.03.24 ~ 2021.09.29 6군단 28사단 포병연대 6387대대 유선 분대장 <br>
+- 2020.03.24 ~ 2021.09.29 6군단 28사단 포병연대 6387대대 야전가설병 <br>
 ## 2021
 - 2021년도 "혼밥여지도" Flutter 앱 개발 참여
 ## 2022
@@ -103,12 +103,6 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 
 <br>
-
-# 🖥️ 현재 진행중인 프로젝트
-
-
-
-
 
 # 🏀
 - 2019년도 교내 인트라뮤랄리그 펜타곤 4위
