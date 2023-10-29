@@ -117,7 +117,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
 
-**프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**   
+**프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**      
 **GitHub :https://github.com/LifeIsRightward/Unity_Dodge**   <br>  
 **🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
