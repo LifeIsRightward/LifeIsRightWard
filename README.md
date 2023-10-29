@@ -16,6 +16,14 @@ https://github.com/LifeIsRightward
 ```
   //내 소개 글귀 ㅇㅇ
 ```
+# 🎓 학력
+- 2007 ~ 2008 남양주 미금초등학교
+- 2008 ~ 2013 서울 정덕초등학교
+- 2013 ~ 2016 서울 고명중학교
+- 2016 ~ 2019 서울 용문고등학교
+- 2019 ~ 현재 강원도 한림대학교
+
+<br>
 
 # 🏆 수상 경력 및 주요 활동. 
 ## 2019   
@@ -74,7 +82,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
 
 #### 프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.
-
+#### Link: https://lifeisrightward.github.io/Portfolio_Site/
 #### 🛠Tech🛠
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
@@ -84,6 +92,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
 #### 프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.
+#### Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be
 
 #### 🛠Tech🛠
 FrontEnd:<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
