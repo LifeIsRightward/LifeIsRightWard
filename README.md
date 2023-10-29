@@ -69,10 +69,11 @@ https://github.com/LifeIsRightward
 
 ### 나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
 
-### 프로젝트 한 줄 소개:
+### 프로젝트 한 줄 소개: 
 
 ### 🛠Tech🛠
-
+<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<br>
 <hr>
 
 ### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
