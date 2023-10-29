@@ -57,9 +57,9 @@ https://github.com/LifeIsRightward
 # 💻 주요 프로젝트 소개
 
 ### 다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "33%" height ="450">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "33%" height ="450">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "33%" height ="450">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "28%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "28%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "28%">
 
 ### 프로젝트 한 줄 소개: 한창 "낭만"이라는 단어에 흠뻑 취해있을때, 나만의 다이어리를 만들어보았습니다.
 
