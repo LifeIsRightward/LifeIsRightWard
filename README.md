@@ -78,8 +78,8 @@ https://github.com/LifeIsRightward
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "24%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
 
-**프로젝트 한 줄 소개: 기존의 Java가 아닌, Kotlin으로 낭만적인 다이어리를 제작하였습니다.**   
-**GitHub: https://github.com/LifeIsRightward/2022_RomaticChaser-DIary**
+**프로젝트 한 줄 소개: 기존의 Java가 아닌, Kotlin으로 낭만적인 다이어리를 제작하였습니다.**   <br>   
+**GitHub: https://github.com/LifeIsRightward/2022_RomaticChaser-DIary**   <br>   
 **🛠Tech🛠**<br> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
