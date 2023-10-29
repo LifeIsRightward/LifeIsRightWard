@@ -111,7 +111,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 <br>
 
-### Unity Dodge(2023.9.17 ~ 20223.10.17)
+### 탄막 피하기 게임(Dodge)(2023.9.17 ~ 20223.10.17)
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/452655bb-3701-4055-afb1-6c5c52219745" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
