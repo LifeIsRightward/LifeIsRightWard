@@ -79,7 +79,7 @@ https://github.com/LifeIsRightward
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
 
 **프로젝트 한 줄 소개: 기존의 Java가 아닌, Kotlin으로 낭만적인 다이어리를 제작하였습니다.**
-
+**GitHub: https://github.com/LifeIsRightward/2022_RomaticChaser-DIary**
 **🛠Tech🛠**<br> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
 
@@ -91,6 +91,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
 
 **프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.** <br>
+**GitHub:https://github.com/LifeIsRightward/Portfolio_Site**
 **Link: https://lifeisrightward.github.io/Portfolio_Site/**
 
 **🛠Tech🛠**<br>
@@ -111,13 +112,13 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 <br>
 
-### 🟤탄막 피하기 게임(Dodge)(2023.9.17 ~ 20223.10.17)
+### 🟤탄막 피하기 게임(Dodge)(2023.9.17 ~ 2023.10.17)
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/452655bb-3701-4055-afb1-6c5c52219745" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
 
 **프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**
-
+**GitHub :https://github.com/LifeIsRightward/Unity_Dodge**
 **🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 
