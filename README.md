@@ -103,7 +103,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
-**Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be**
+**Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be**   
 
 **🛠Tech🛠**<br>
 FrontEnd:<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -118,7 +118,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
 
 **프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**   
-**GitHub :https://github.com/LifeIsRightward/Unity_Dodge**
+**GitHub :https://github.com/LifeIsRightward/Unity_Dodge**   
 **🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
 
