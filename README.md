@@ -58,6 +58,7 @@ https://github.com/LifeIsRightward
 - 2022년도 Topcit 제 19회 정기평가
 - 2022년도 Topcit 제 20회 정기평가
 - 2023년도 1학기 학기우등 (4.20)
+<br>
 
 # 🏀
 - 2019년도 교내 인트라뮤랄리그 펜타곤 4위
