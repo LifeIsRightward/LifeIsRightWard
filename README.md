@@ -67,12 +67,17 @@ https://github.com/LifeIsRightward
 
 <hr>
 
+### 나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
+
+### 프로젝트 한 줄 소개:
+
+### 🛠Tech🛠
+
+<hr>
+
 ### 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" height = "70%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "45%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "55%">
-
-
-
 
 ### 프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.
 
@@ -92,8 +97,6 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 ### 🛠Tech🛠
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
-
-<br>
 
 # 🖥️ 현재 진행중인 프로젝트
 
