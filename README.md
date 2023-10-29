@@ -126,7 +126,8 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 # 🏃 진행중인 프로젝트
 ### 교내
-- 클라우드 컴퓨팅: 실습에서 사용했던 Nginx, Openstack, Docker, Azure 중에서 선택하여 클라이언트 - 서버 구조 프로젝트 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=Openstack&logoColor=white"/>
+- 클라우드 컴퓨팅: 실습에서 사용했던 Nginx, Openstack, Docker, Azure 중에서 선택하여 클라이언트 - 서버 구조 프로젝트
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=Openstack&logoColor=white"/>
 - 오픈소스HW 응용: Arduino를 이용한 창작물 제작 및 발표 - <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
 - VR/AR 게임제작 기초: Unity를 이용한 FPS 리듬게임 제작 - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
 
