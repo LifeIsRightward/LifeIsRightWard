@@ -67,7 +67,9 @@ https://github.com/LifeIsRightward
 
 
 ### 나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/aafeba29-f987-4730-8cef-ef656013047f" widht = "200" height ="400"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" widht = "200" height ="400"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" widht = "200" height ="400">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/aafeba29-f987-4730-8cef-ef656013047f" widht = "10%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" widht = "10%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" widht = "10%">
 
 ### 프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.
 
@@ -99,8 +101,6 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 
 # 🖥️ 현재 진행중인 프로젝트
-
-
 
 
 
