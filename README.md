@@ -91,8 +91,8 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
 
 **프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.** <br>      
-**GitHub:https://github.com/LifeIsRightward/Portfolio_Site**
-**Link: https://lifeisrightward.github.io/Portfolio_Site/**
+**GitHub:https://github.com/LifeIsRightward/Portfolio_Site**   
+**Link: https://lifeisrightward.github.io/Portfolio_Site/**   
 
 **🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
