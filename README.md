@@ -103,6 +103,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
+**GitHub:https://github.com/LifeIsRightward/C-shop.git**   
 **Youtube: https://www.youtube.com/watch?v=O_I4qz1BHQA&feature=youtu.be**   
 
 **🛠Tech🛠**<br>
