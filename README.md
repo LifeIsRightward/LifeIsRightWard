@@ -67,6 +67,7 @@ https://github.com/LifeIsRightward
 - 2022년도 Topcit 제 19회 정기평가
 - 2022년도 Topcit 제 20회 정기평가
 - 2023년도 1학기 학기우등 (4.20)
+- 2023년도 2학기 학기우등 (4.5)
 <br>
 
 # 🏀
