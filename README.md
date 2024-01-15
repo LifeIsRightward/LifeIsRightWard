@@ -25,7 +25,7 @@ https://github.com/LifeIsRightward
  저의 경험으로 하여금 많은 사람들이 조금 더 쉽게 이해하고, 다양한 사람들과의 지식공유, 협업을 발판 삼아 끊임없이 발전하고 있습니다.
 ```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidss)](https://solved.ac/gidss/)
-![DaeHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![DaeHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeIsRightWard&show_icons=true&theme=transparent)
 # 🏆 수상 경력 및 주요 활동
 ## 2019   
 - 2019년도 신입생 몰입형 SW코딩캠프(파이썬) 
