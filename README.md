@@ -24,7 +24,7 @@ https://github.com/LifeIsRightward
  여태까지 멘티 활동을 진행해 왔고, 2023년도에는 제가 멘토로써 멘티들에게 전공지식을 알려주고 있습니다.
  저의 경험으로 하여금 많은 사람들이 조금 더 쉽게 이해하고, 다양한 사람들과의 지식공유, 협업을 발판 삼아 끊임없이 발전하고 있습니다.
 ```
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidss)](https://solved.ac/gidss/)
 # 🏆 수상 경력 및 주요 활동
 ## 2019   
 - 2019년도 신입생 몰입형 SW코딩캠프(파이썬) 
