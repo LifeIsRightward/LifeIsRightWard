@@ -26,7 +26,7 @@ https://github.com/LifeIsRightward
 ```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidss)](https://solved.ac/gidss/)
 ![DaeHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeIsRightWard&show_icons=true&theme=transparent)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=gidsstheme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gidss&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle=gidss&theme=warm"/>
 # 🏆 수상 경력 및 주요 활동
 ## 2019   
