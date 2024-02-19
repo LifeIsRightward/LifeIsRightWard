@@ -26,7 +26,8 @@ https://github.com/LifeIsRightward
 ```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidss)](https://solved.ac/gidss/)
 ![DaeHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LifeIsRightWard&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeIsRightWard&layout=Demo&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={gidss}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 # 🏆 수상 경력 및 주요 활동
 ## 2019   
 - 2019년도 신입생 몰입형 SW코딩캠프(파이썬) 
