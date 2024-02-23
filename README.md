@@ -169,13 +169,16 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 멀티미디어개론(Introduction to Multimedia)
 - 소프트웨어개론(Introduction to Software)
 - 오픈소스리눅스실무(Open Source Linux Practice)
-
-### 수강중인 과목
 - VR/AR 게임제작기초(VR/AR/Game Production Basics)
 - 데이터베이스기초(Database Basics)
 - 클라우드컴퓨팅(Cloud Computing)
 - 오픈소스SW의 이해(Understanding Opensource SW)
 - 오픈소스하드웨어 응용(Opensource Hardware)
+
+### 수강중인 과목
+- 소프트웨어 캡스톤 디자인
+- 웹 서버구축
+- 데이터베이스 시스템
 
 # 📢 꾸준한 앞으로의 목표
 - Git Hub 1일 1잔디
@@ -189,7 +192,7 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 캡스톤 주제로 여러 해커톤 대회 참석, 수상
 - 건강한 신체 유지
 - 졸업학점 4.3
-- 두고두고 오래볼 동기들 챙기기
+- 두고두고 오래볼 동기들, 후배들 챙기기
 - 대기업 Or 스타트업
 
 # 🎙️ 마지막으로
