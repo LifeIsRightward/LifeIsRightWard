@@ -185,11 +185,9 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 클라우드컴퓨팅(Cloud Computing)
 - 오픈소스SW의 이해(Understanding Opensource SW)
 - 오픈소스하드웨어 응용(Opensource Hardware)
-
-### 수강중인 과목
-- 소프트웨어 캡스톤 디자인
-- 웹 서버구축
-- 데이터베이스 시스템
+- 소프트웨어 캡스톤 디자인(Software Capstone Design)
+- 웹 서버구축(Webserver construction)
+- 데이터베이스 시스템(Database System)
 
 # 📢 꾸준한 앞으로의 목표
 - Git Hub 1일 1잔디
