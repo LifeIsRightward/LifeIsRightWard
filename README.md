@@ -65,6 +65,7 @@ https://github.com/LifeIsRightward
 - 교내 SW중심대학사업단 SW Week GitHub 이력서 콘테스트 해커톤(동상)🥉
 - 교내 SW중심대학사업단 SW week C.愛.랑 동아리 전시회(동상)🥉
 - 교내 우수동아리 C.愛.랑 (은상)🥈
+- 교내 2학기 VR/AR 게임제작기초 과목 Unity 개발 (Black ONE - TPS 장르의 Wave 격파 게임)
 - 교내 교육혁신센터 AI 기반 좋은 수업 추천하기 공모전 학습열정상 수상🥇
 - Topcit 제 19회 정기평가, 160점
 - Topcit 제 20회 정기평가, 343점
