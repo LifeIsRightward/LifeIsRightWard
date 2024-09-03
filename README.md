@@ -150,14 +150,11 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 # 🏃 진행중인 프로젝트
 ### 교내
-- 2024 하계 오픈소스SW 해커톤 아이디어. '저요!' 개발 진행
-<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+- 2024 하계 오픈소스SW 해커톤 아이디어. '저요!' 개발 진행 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 
 
 ### 교외
-- 웹 개발: 서진 T&S 웹 개발
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-<br>
+- 웹 개발: 서진 T&S 웹 개발 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
 
 # 📚 전공 과목
 
