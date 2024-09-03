@@ -150,14 +150,11 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 # 🏃 진행중인 프로젝트
 ### 교내
-- 클라우드 컴퓨팅: 실습에서 사용했던 Nginx, Openstack, Docker, Azure 중에서 선택하여 클라이언트 - 서버 구조 프로젝트
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Openstack-ED1944?style=flat-square&logo=Openstack&logoColor=white"/>
-- 오픈소스HW 응용: Arduino를 이용한 창작물 제작 및 발표 - <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white">
-- VR/AR 게임제작 기초: Unity를 이용한 FPS 리듬게임 제작 - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white">
+- 2024 하계 오픈소스SW 해커톤 아이디어. '저요!' 개발 진행
+<img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 
 ### 교외
-- 웹 개발: 용문고등학교 김지수(수학)선생님, 안지훈(정보)선생님 과 함께 Streamlit을 사용한 웹 개발
-- 웹 개발: 정우토탈 웹 개발
+- 웹 개발: 서진 T&S 웹 개발
 <br>
 
 # 📚 전공 과목
@@ -189,6 +186,10 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 소프트웨어 캡스톤 디자인(Software Capstone Design)
 - 웹 서버구축(Webserver construction)
 - 데이터베이스 시스템(Database System)
+
+### 수강중인 과목
+- 소프트웨어공학(Software Engineering)
+- 보안솔루션운영(Security Diagnosis Consulting)
 
 # 📢 꾸준한 앞으로의 목표
 - Git Hub 1일 1잔디
