@@ -83,6 +83,7 @@ https://github.com/LifeIsRightward
 - 교내 교육혁신센터 AI 기반 좋은 수업 추천하기 공모전 AI 결합 탐구역량상 수상🥇
 - 교내 SW중심대학사업단 SW Week 한림 정보보호 아이디어 공모전 동상(ID, PW Hasing 메핑테이블)🥉
 - 교내 SW중심대학사업단 SW Week 아이디어 해커톤 대회 금상(인제군 스마트워케이션 운영)🥇
+- 2학기 Team. 대연대연 JEOYO!! BE(Django) 부분 개발(경매방식의 제품, 서비스 거래 플랫폼)
 - Topcit 제 22회 정기평가, 405점(수준 3)
 - 1학기 학기우등 (4.5)
 <br>
