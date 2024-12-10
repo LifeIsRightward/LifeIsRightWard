@@ -112,14 +112,16 @@ https://github.com/LifeIsRightward
 
 <br>
 
-### 🟤나만의 포트폴리오 사이트(2023.06.28 ~ 2023.08.23)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/aafeba29-f987-4730-8cef-ef656013047f" width = "28%">
+
+### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
+<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "28%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" width = "35%">
 <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
 
 **프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.** <br>      
-**GitHub:https://github.com/LifeIsRightward/Portfolio_Site**   
-**Link: https://lifeisrightward.github.io/Portfolio_Site/**   
+**GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
+**GitHub(FE Part Repo): https://github.com/LifeIsRightward/Bigsasimi_FrontEnd**
+**Youtube: https://youtu.be/5spIMh7CQFc**
 
 **🛠Tech🛠**<br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
