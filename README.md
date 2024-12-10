@@ -117,9 +117,9 @@ BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&log
 <br>
 
 ### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
-<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "33%">
-<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "33%">
-<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "33%">
+<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "30%">
+<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "30%">
+<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "30%">
 
 **2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public** <br>
@@ -133,9 +133,9 @@ FE: <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&lo
 <br>
 
 ### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
-<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "33%">
-<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "33%">
-<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "33%">
+<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "30%">
+<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "30%">
+<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "30%">
 
 **2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
 **GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file** <br>
@@ -146,7 +146,7 @@ BE: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=
 <br>
 
 ### 🟤공과대학 학술동아리 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "24%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "24%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "24%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"> <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "30%"> <img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "30%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
 **GitHub:https://github.com/LifeIsRightward/C-shop.git**   
@@ -160,9 +160,9 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <br>
 
 ### 🟤다이어리 낭만추적자(2022.06.30 ~ 2022.11.20)
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "24%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "24%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "24%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/90a1c145-c78e-479c-b615-8a12ce824b37" width = "20%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/c4127384-4616-4bc9-9c2f-26a6c241d26d" width = "20%">
+<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/f814eb88-d2a8-4c2e-88c0-d2369a9244e1" width = "20%">
 
 **프로젝트 한 줄 소개: 기존의 Java가 아닌, Kotlin으로 낭만적인 다이어리를 제작하였습니다.**   <br>   
 **GitHub: https://github.com/LifeIsRightward/2022_RomaticChaser-DIary**   <br>   
