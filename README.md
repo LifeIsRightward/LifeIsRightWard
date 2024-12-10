@@ -112,11 +112,10 @@ https://github.com/LifeIsRightward
 
 <br>
 
-
 ### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
 <img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "28%">
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/4febc6f1-6cdc-48df-9135-1d31c5bac6a0" width = "35%">
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/33948e70-694b-4095-b58d-166a16a2a89a" width = "32%">
+<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "35%">
+<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "32%">
 
 **프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
