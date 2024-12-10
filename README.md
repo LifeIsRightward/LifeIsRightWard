@@ -112,26 +112,8 @@ https://github.com/LifeIsRightward
 
 <br>
 
-### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
-<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "28%">
-<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "35%">
-<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "32%">
-
-**2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
-**GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
-**GitHub(FE Part Repo): https://github.com/LifeIsRightward/Bigsasimi_FrontEnd**
-**Youtube: https://youtu.be/5spIMh7CQFc**
-
-**🛠Tech🛠**<br>
-BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-
-
-<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-
-<br>
-
 ### 🟤씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "33%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "25%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "33%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
 **GitHub:https://github.com/LifeIsRightward/C-shop.git**   
@@ -144,17 +126,36 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 <br>
 
-### 🟤탄막 피하기 게임(Dodge)(2023.9.17 ~ 2023.10.17)
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/452655bb-3701-4055-afb1-6c5c52219745" width = "33%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/8e895450-1aa9-4bce-82de-179fa8e467a4" width = "33%">
-<img src ="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/be9b5086-4dc1-44d7-bd36-61c7c32799d7" width = "33%">
+### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
+<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "28%">
+<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "35%">
+<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "32%">
 
-**프로젝트 한 줄 소개: 2023 VR/AR 게임제작 기초 수업시간에 진행한 탄막피하기 게임입니다.**   <br><br> 
-**GitHub :https://github.com/LifeIsRightward/Unity_Dodge**   <br>  
+**2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
+**GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
+**GitHub(FE Part Repo): https://github.com/LifeIsRightward/Bigsasimi_FrontEnd**
+**Youtube: https://youtu.be/5spIMh7CQFc**
+
 **🛠Tech🛠**<br>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src ="https://img.shields.io/badge/-C%23-000000?&style=for-the-badge&logo=Csharp&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
-
+BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <br>
+FE: <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<br>
+AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<br>
+
+
+### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
+<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "28%">
+<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "35%">
+<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "32%">
+
+**2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
+**GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file**
+**Youtube: https://youtu.be/s0ONJto4pVY**
+
+**🛠Tech🛠**<br>
+BE: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 # 🏃 진행중인 프로젝트
 ### 교내
