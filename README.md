@@ -113,13 +113,13 @@ https://github.com/LifeIsRightward
 **🛠Tech🛠**<br>
 FE: <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
-BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br>
 
 ### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
-<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "26%">
-<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "26%">
-<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "26%">
+<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "33%">
+<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "33%">
+<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "33%">
 
 **2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public** <br>
@@ -129,15 +129,13 @@ BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=
 **🛠Tech🛠**<br>
 BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <br>
-FE: <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<br>
-AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+FE: <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> & AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <br>
 
 ### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
-<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "26%">
-<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "26%">
-<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "26%">
+<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "33%">
+<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "33%">
+<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "33%">
 
 **2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
 **GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file** <br>
