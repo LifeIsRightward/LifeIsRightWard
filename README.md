@@ -117,18 +117,21 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "35%">
 <img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "32%">
 
-**프로젝트 한 줄 소개: 깃허브 뿐만 아니라, 자체적으로 제작한 포트폴리오 사이트가 있으면 좋겠다고 생각했습니다. 호스팅은 Github.io를 사용하였습니다.** <br>      
+**2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
 **GitHub(FE Part Repo): https://github.com/LifeIsRightward/Bigsasimi_FrontEnd**
 **Youtube: https://youtu.be/5spIMh7CQFc**
 
 **🛠Tech🛠**<br>
+BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+
+
 <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
 <br>
 
 ### 🟤씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "30%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "29%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "36%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "33%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
 **GitHub:https://github.com/LifeIsRightward/C-shop.git**   
