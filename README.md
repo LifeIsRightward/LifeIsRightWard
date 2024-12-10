@@ -113,7 +113,7 @@ https://github.com/LifeIsRightward
 <br>
 
 ### 🟤씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
-<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "33%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "25%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "33%">
+<img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fd9743f2-c2cb-4764-a413-39d75da915c3" width = "24%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/d5b910f1-de97-4dc4-9530-8059fbadff69" width = "24%"><img src="https://github.com/LifeIsRightward/LifeIsRightWard/assets/90908005/fb4cfa0e-13af-4109-9ca6-56ef9ed095bd" width = "24%">
 
 **프로젝트 한 줄 소개: 2023년도 교내 오픈소스SW 해커톤 대회 제작물로, 2023년도 씨애랑 홈페이지 제작을 하였습니다. 저는 Front-End 개발을 담당하였습니다.** <br>   
 **GitHub:https://github.com/LifeIsRightward/C-shop.git**   
@@ -127,9 +127,9 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 <br>
 
 ### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
-<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "28%">
-<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "35%">
-<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "32%">
+<img src="https://github.com/user-attachments/assets/af5fca9f-b134-42a7-afa1-0e3c2f8dc3eb" width = "26%">
+<img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "26%">
+<img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "26%">
 
 **2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public**
@@ -141,14 +141,14 @@ BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=
 <br>
 FE: <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <br>
-AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 <br>
 
 
 ### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
-<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "28%">
-<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "35%">
-<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "32%">
+<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "26%">
+<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "26%">
+<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "26%">
 
 **2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
 **GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file**
@@ -156,6 +156,37 @@ AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo
 
 **🛠Tech🛠**<br>
 BE: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
+
+### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
+<img src="https://github.com/user-attachments/assets/7e0dbb87-7abe-412c-824d-ae4e19513ac9" width = "26%">
+<img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "26%">
+<img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "26%">
+
+**2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
+**GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file**
+**Youtube: https://youtu.be/s0ONJto4pVY**
+
+**🛠Tech🛠**<br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
+
+### 🟤경매 방식을 통한 중고 물품/서비스 거래 플랫폼 (2024.08.23 ~ 2024.10.13)
+<img src="https://github.com/user-attachments/assets/4365d0f2-a750-4af5-8c35-e34f3d41b3ed" width = "26%">
+<img src="https://github.com/user-attachments/assets/1e39ba70-8d24-49f4-be8d-ac59b8f9b9b1" width = "26%">
+<img src="https://github.com/user-attachments/assets/52f35765-9e26-4573-9d15-1fdf9b2d9351" width = "26%">
+
+**저요!🙋🏻‍♂️ (JeoYO!) 프로젝트에서 BE(Django)파트를 담당하여 개발하였습니다.** <br>
+**GitHub(organization): https://github.com/DAEYEON-DAEYEON**
+**GitHub(BE Part Repo): https://github.com/LifeIsRightward/JeoYoBE**
+**Youtube: https://youtu.be/fB6TveUo6p8?si=lKkKvpkAiE18kB7W**
+
+**🛠Tech🛠**<br>
+FE: <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<br>
+BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<br>
+
 
 # 🏃 진행중인 프로젝트
 ### 교내
