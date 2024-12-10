@@ -105,7 +105,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/user-attachments/assets/1e39ba70-8d24-49f4-be8d-ac59b8f9b9b1" width = "26%">
 <img src="https://github.com/user-attachments/assets/52f35765-9e26-4573-9d15-1fdf9b2d9351" width = "26%">
 
-**저요!🙋🏻‍♂️ (JeoYO!) 프로젝트에서 BE(Django)파트를 담당하여 개발하였습니다.** <br>
+**저요!🙋🏻‍♂️ (JeoYO!) 프로젝트에서 BE(Django)파트를 담당하여 개발하였습니다.** <br><br> 
 **GitHub(organization): https://github.com/DAEYEON-DAEYEON** <br>
 **GitHub(BE Part Repo): https://github.com/LifeIsRightward/JeoYoBE** <br>
 **Youtube: https://youtu.be/fB6TveUo6p8?si=lKkKvpkAiE18kB7W** <br>
@@ -127,11 +127,11 @@ BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=
 **Youtube: https://youtu.be/5spIMh7CQFc** <br>
 
 **🛠Tech🛠**<br>
-BE: <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <br>
-FE: <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+FE: <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
-AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+AI: <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <br>
 
 ### 🟤동아시아 국가들의 소재별 문화 특징과 관광정보 커뮤니티 (2024.05.31 ~ 2024.06.13)
