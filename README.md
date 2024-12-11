@@ -105,7 +105,7 @@ https://github.com/LifeIsRightward
 <img src="https://github.com/user-attachments/assets/1e39ba70-8d24-49f4-be8d-ac59b8f9b9b1" width = "26%">
 <img src="https://github.com/user-attachments/assets/52f35765-9e26-4573-9d15-1fdf9b2d9351" width = "26%">
 
-**저요!🙋🏻‍♂️ (JeoYO!) 프로젝트에서 BE(Django)파트를 담당하여 개발하였습니다.** <br><br> 
+**프로젝트 한 줄 소개: 저요!🙋🏻‍♂️ (JeoYO!) 프로젝트에서 BE(Django)파트를 담당하여 개발하였습니다.** <br><br> 
 **GitHub(organization): https://github.com/DAEYEON-DAEYEON** <br>
 **GitHub(BE Part Repo): https://github.com/LifeIsRightward/JeoYoBE** <br>
 **Youtube: https://youtu.be/fB6TveUo6p8?si=lKkKvpkAiE18kB7W** <br>
@@ -113,7 +113,7 @@ https://github.com/LifeIsRightward
 **🛠Tech🛠**<br>
 FE: <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
-BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Groom.IDE-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"> 
 <br>
 
 ### 🟤AI기반 1:1 맞춤형 영양 관리 플랫폼 (2024.03.08 ~ 2024.06.28)
@@ -121,7 +121,7 @@ BE: <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&log
 <img src="https://github.com/user-attachments/assets/c510ce67-793a-4276-b1ee-dd7be7018c05" width = "30%">
 <img src="https://github.com/user-attachments/assets/0137efee-1bb0-4a46-a5f4-2b26407f33a6" width = "30%">
 
-**2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
+**프로젝트 한 줄 소개: 2024 1학기 SW캡스톤 디자인 '영양갱' 서비스의 FE(Flutter) 부분을 담당하여 개발했습니다.** <br>      
 **GitHub(organization): https://github.com/neoman-omyeon-go?view_as=public** <br>
 **GitHub(FE Part Repo): https://github.com/LifeIsRightward/Bigsasimi_FrontEnd** <br>
 **Youtube: https://youtu.be/5spIMh7CQFc** <br>
@@ -137,12 +137,12 @@ FE: <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&lo
 <img src="https://github.com/user-attachments/assets/41216bd8-3035-4749-b4a7-cbc71405744a" width = "30%">
 <img src="https://github.com/user-attachments/assets/658c7d99-74b9-4401-adf3-f0ca95b2769e" width = "30%">
 
-**2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
+**프로젝트 한 줄 소개: 2024 1학기 웹서버구축 프로젝트로써, JSP를 활용한 FE, BE 개발을 담당하였습니다.** <br>      
 **GitHub: https://github.com/LifeIsRightward/WebServer?tab=readme-ov-file** <br>
 **Youtube: https://youtu.be/s0ONJto4pVY** <br>
 
 **🛠Tech🛠**<br>
-BE: <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
 
 ### 🟤공과대학 학술동아리 씨애랑 홈페이지 제작(2023.07.02 ~ 2023.10.29)
