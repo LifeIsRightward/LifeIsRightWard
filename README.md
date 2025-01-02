@@ -86,7 +86,11 @@ https://github.com/LifeIsRightward
 - 2학기 Team. 대연대연 JEOYO!! BE(Django) 부분 개발(경매방식의 제품, 서비스 거래 플랫폼)
 - Topcit 제 22회 정기평가, 405점(수준 3)
 - 1학기 학기우등 (4.5)
+- 2학기 학기우등 (4.5)
 <br>
+
+## 2025
+- 교외 LG CNS AM Inspire Camp 1기 진행중 (24.12.20 ~)
 
 # 🏀
 - 2019년도 교내 소프트웨어융합대학 체육대회 농구부분 1위🥇
