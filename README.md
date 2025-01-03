@@ -211,10 +211,9 @@ BackEnd: <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badg
 - 소프트웨어 캡스톤 디자인(Software Capstone Design)
 - 웹 서버구축(Webserver construction)
 - 데이터베이스 시스템(Database System)
-
-### 수강중인 과목
 - 소프트웨어공학(Software Engineering)
 - 보안솔루션운영(Security Diagnosis Consulting)
+
 
 # 📢 꾸준한 앞으로의 목표
 - Git Hub 1일 1잔디
